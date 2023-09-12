@@ -15,6 +15,6 @@ Algoritmo CalculadoraSimple
 	Escribir "La diferencia entre: " NumX " - " NumY " es: "  Dif
 	Escribir "El producto de: " NumX " * " NumY " es: "  Producto
 	Escribir "El cociente de: " NumX " / " NumY " es: "  Cociente
-	Escribir "El resultado de la potenciacion de: " NumX " elevado a " NumY " es: "  Potencia
+	Escribir "El resultado de la potenciación de: " NumX " elevado a " NumY " es: "  Potencia
 	Escribir "El residuo o modulo de: " NumX " / " NumY " es: "  Resto
 FinAlgoritmo
